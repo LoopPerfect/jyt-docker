@@ -1,5 +1,5 @@
-# jyt-docker
-## docker container for jyt
+# Jyt-Docker
+## Docker container for Jyt
 
 Type the following to get into the Jyt REPL:
 
